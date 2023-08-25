@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 
-- Solution URL: [Add solution URL here]( https://github.com/jite91/musical-happiness/edit/main ) 
+- Solution URL: [Add solution URL here](https://github.com/jite91/musical-happiness) ) 
 
 
 
